@@ -2,7 +2,7 @@
 
 ## 🌐 Live Demo
 
-Experience the live application here: [Wingman](https://arunrawat404.github.io/Wingman/)
+Experience the live application here: [Wingman](https://wingman-mu-ten.vercel.app/)
 
 ---
 
