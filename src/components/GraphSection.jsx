@@ -20,7 +20,7 @@ const GraphSection = () => {
 
                     {/* Graph Container */}
                     <div className="flex items-center justify-center bg-white rounded-lg">
-                        <img src="../../public/assets/chart.png" alt="Chart" />
+                        <img src="/assets/chart.png" alt="Chart" />
                     </div>
 
                     {/* Horizontal Line */}
@@ -29,15 +29,15 @@ const GraphSection = () => {
                     {/* Legend Section */}
                     <div className="flex justify-between text-xs text-gray-500" >
                         <div className="flex items-center gap-2">
-                            <img src="../../public/assets/incoming.svg" alt="icon" className="w-4 h-1" />
+                            <img src="/assets/incoming.svg" alt="icon" className="w-4 h-1" />
                             Incoming
                         </div>
                         <div className="flex items-center gap-2">
-                            <img src="../../public/assets/answer.svg" alt="icon" className="w-4 h-1" />
+                            <img src="/assets/answer.svg" alt="icon" className="w-4 h-1" />
                             Answered
                         </div>
                         <div className="flex items-center gap-2">
-                            <img src="../../public/assets/expert.svg" alt="icon" className="w-4 h-1" />
+                            <img src="/assets/expert.svg" alt="icon" className="w-4 h-1" />
                             Experts online
                         </div>
                     </div>
@@ -49,17 +49,17 @@ const GraphSection = () => {
                         VS PAST PERIOD
                     </h3>
                     <div className="flex items-center justify-center bg-white rounded-lg ">
-                        <img src="../../public/assets/barchart.png"></img>
+                        <img src="/assets/barchart.png"></img>
                     </div>
                     {/* Horizontal Line */}
                     <div className="w-full mt-12 mb-6 border-t border-gray-200"></div>
                     <div className="flex justify-between text-xs text-gray-500">
                         <div className="flex items-center gap-2">
-                            <img src="../../public/assets/consultation.svg" alt="icon" className="w-4 h-1" />
+                            <img src="/assets/consultation.svg" alt="icon" className="w-4 h-1" />
                             Consultations
                         </div>
                         <div className="flex items-center gap-2">
-                            <img src="../../public/assets/order_close.svg" alt="icon" className="w-4 h-1" />
+                            <img src="/assets/order_close.svg" alt="icon" className="w-4 h-1" />
                             Orders closed
                         </div>
                     </div>
@@ -72,7 +72,7 @@ const GraphSection = () => {
                     {/* Forecast Header */}
                     <div className="flex flex-col justify-center items-start gap-2 w-[212px] h-[30px]">
                         <div className="flex flex-row items-center w-full gap-2">
-                            <img src="../../public/assets/forecast.png" alt="icon" className="w-[9.38px] h-[9.38px]" />
+                            <img src="/assets/forecast.png" alt="icon" className="w-[9.38px] h-[9.38px]" />
                             <h3 className="font-['Inter'] font-semibold text-[12px] leading-[30px] uppercase tracking-[0.5px] text-[#CCFBEF]">
                                 Forecasts
                             </h3>
@@ -93,7 +93,7 @@ const GraphSection = () => {
                                 +15%
                             </h1>
                             <div className="flex w-[35px] h-[35px]">
-                                <img src="../../public/assets/up_white.png" alt="icon" className="w-[30px] h-[20px]" />
+                                <img src="/assets/up_white.png" alt="icon" className="w-[30px] h-[20px]" />
                             </div>
                         </div>
                         <p className="font-['Inter'] font-normal text-[14px] leading-[157%] tracking-[-0.01em] text-[#FFFFFF]">
@@ -109,7 +109,7 @@ const GraphSection = () => {
                                 +20%
                             </h1>
                             <div className="flex w-[35px] h-[35px]">
-                                <img src="../../public/assets/up_white.png" alt="icon" className="w-[30px] h-[20px]" />
+                                <img src="/assets/up_white.png" alt="icon" className="w-[30px] h-[20px]" />
                             </div>
                         </div>
                         <p className="font-['Inter'] font-normal text-[14px] leading-[157%] tracking-[-0.01em] text-[#FFFFFF]">
